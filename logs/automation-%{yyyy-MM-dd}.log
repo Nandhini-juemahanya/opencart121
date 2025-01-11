@@ -1,0 +1,84 @@
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 16 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 27 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[TestNG] Running:
+  C:\Users\Cool\AppData\Local\Temp\testng-eclipse-1007178250\testng-customsuite.xml
+
+[Utils] DynamicGraphHelper.createDynamicGraph() took 18 ms.
+*****starting TC001-accounting registratin test****
+[TestNG] Time taken by org.testng.reporters.jq.Main@4c9e38: 584 ms
+[TestNG] Time taken by org.testng.reporters.FailedReporter@6b63d445: 26 ms
+[TestNG] Time taken by org.testng.reporters.XMLReporter@783efb48: 51 ms
+[TestNG] Time taken by org.testng.reporters.EmailableReporter2@71391b3f: 19 ms
+[TestNG] Time taken by org.testng.reporters.JUnitReportReporter@3005db4a: 26 ms
+[TestNG] Time taken by org.testng.internal.ExitCodeListener@425d5d46: 0 ms
+suiteXmlPath: "C:\Users\Cool\AppData\Local\Temp\testng-eclipse-1911043717\testng-customsuite.xml"
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 14 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 26 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[TestNG] Running:
+  C:\Users\Cool\AppData\Local\Temp\testng-eclipse-1911043717\testng-customsuite.xml
+
+[Utils] DynamicGraphHelper.createDynamicGraph() took 11 ms.
+*****starting TC001-accounting registratin test****
+[TestNG] Time taken by org.testng.reporters.jq.Main@33abde31: 514 ms
+[TestNG] Time taken by org.testng.reporters.FailedReporter@57b9e423: 84 ms
+[TestNG] Time taken by org.testng.reporters.XMLReporter@30404dba: 47 ms
+[TestNG] Time taken by org.testng.reporters.EmailableReporter2@51751e5f: 23 ms
+[TestNG] Time taken by org.testng.reporters.JUnitReportReporter@d1a10ac: 21 ms
+[TestNG] Time taken by org.testng.internal.ExitCodeListener@6fca2a8f: 0 ms
+suiteXmlPath: "C:\Users\Cool\AppData\Local\Temp\testng-eclipse--1056955271\testng-customsuite.xml"
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.

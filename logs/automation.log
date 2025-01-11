@@ -1,0 +1,36 @@
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 24 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 35 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 5 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[TestNG] Running:
+  C:\Users\Cool\AppData\Local\Temp\testng-eclipse--1056955271\testng-customsuite.xml
+
+[Utils] DynamicGraphHelper.createDynamicGraph() took 15 ms.
+*****starting TC001-accounting registratin test****
+[TestNG] Time taken by org.testng.reporters.jq.Main@53093491: 545 ms
+[TestNG] Time taken by org.testng.reporters.FailedReporter@34523d46: 35 ms
+[TestNG] Time taken by org.testng.reporters.XMLReporter@d1a10ac: 22 ms
+[TestNG] Time taken by org.testng.reporters.EmailableReporter2@3013909b: 18 ms
+[TestNG] Time taken by org.testng.reporters.JUnitReportReporter@7bef452c: 22 ms
+[TestNG] Time taken by org.testng.internal.ExitCodeListener@4bb8855f: 1 ms
